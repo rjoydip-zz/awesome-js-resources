@@ -20,15 +20,15 @@
   },
   "keywords": [
     "resources",
-		"video",
-		"links",
+    "video",
+    "links",
     "javascript",
     "node.js",
-		"webassembly",
-		"JSConf",
-		"angular",
-		"TensorFlow.js",
-		"node"
+    "webassembly",
+    "JSConf",
+    "angular",
+    "TensorFlow.js",
+    "node"
   ],
   "author": "",
   "license": "ISC",

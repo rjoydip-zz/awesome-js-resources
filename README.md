@@ -15,6 +15,7 @@ A collection of awesome [JavaScript](https://developer.mozilla.org/en-US/docs/We
 ## Javascript
 
 - Videos
+	- [Service Workers - The State of the Web](https://youtu.be/JYXXGNFJjwc?list=WL) :new:
 	- [Top-level Awaiting - Myles Borins](https://youtu.be/EERzGWgkU2o) :new:
 	- [The Async Await Episode | Promised (Angular Firebase)](https://youtu.be/vn3tm0quoqE?list=WL)
 	- [JavaScript Pro Tips - Code This, NOT That](https://youtu.be/Mus_vwhTCq0?list=WL)
