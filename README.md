@@ -15,6 +15,7 @@ A collection of awesome [JavaScript](https://developer.mozilla.org/en-US/docs/We
 ## Javascript
 
 - Videos
+	- [The State of JavaScript - The State of the Web](https://www.youtube.com/watch?v=i5R7giitymk) :new:
   - [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)
   - [Optional Chaining operator](https://www.youtube.com/watch?v=FKRVqtP8o48)
   - [V8 Internals for JavaScript Developers (Make Your JavaScript Faster)](https://www.youtube.com/watch?v=EhpmNyR2Za0)
