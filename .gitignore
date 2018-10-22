@@ -1,0 +1,15 @@
+lib-cov
+lcov.info
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+logs
+build
+
+node_modules
+docs
