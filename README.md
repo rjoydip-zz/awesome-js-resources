@@ -15,6 +15,7 @@ A collection of awesome [JavaScript](https://developer.mozilla.org/en-US/docs/We
 ## Javascript
 
 - Videos
+	- [JavaScript Pro Tips - Code This, NOT That](https://youtu.be/Mus_vwhTCq0?list=WL) :new:
 	- [The State of JavaScript - The State of the Web](https://www.youtube.com/watch?v=i5R7giitymk) :new:
   - [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)
   - [Optional Chaining operator](https://www.youtube.com/watch?v=FKRVqtP8o48)
