@@ -8,11 +8,11 @@
     "pdf": "pdf"
   },
   "scripts": {
-    "start": "nodemon node doc-gen.js",
-    "doc:gen": "node doc-gen.js prod",
+    "start": "nodemon node docgen.js",
+    "doc:gen": "node docgen.js prod",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "deploy.sh"
+    "deploy": "npm run doc:gen && deploy.sh"
   },
   "repository": {
     "type": "git",
@@ -20,11 +20,15 @@
   },
   "keywords": [
     "resources",
-    "resources-links",
-    "jsvascript",
+		"video",
+		"links",
+    "javascript",
     "node.js",
-    "webassembly",
-    "WebRTC"
+		"webassembly",
+		"JSConf",
+		"angular",
+		"TensorFlow.js",
+		"node"
   ],
   "author": "",
   "license": "ISC",
