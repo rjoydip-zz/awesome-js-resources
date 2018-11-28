@@ -201,6 +201,7 @@ A collection of awesome [JavaScript](https://developer.mozilla.org/en-US/docs/We
 
 ## Others
 
+- [The State of Progressive Web Apps](https://www.youtube.com/watch?v=UIhKtMJVZHk) :new:
 - [React.js vs Angular vs Vue](https://www.youtube.com/watch?v=SWZ_4YBFBhs)
 - [Machine Learning Crash Course (LearnCode.academy)](https://www.youtube.com/playlist?list=PLoYCgNOIyGABWLy_XoLSxTVRe2bltV8GM)
 - [VueJS - CLI 3 Tutorial](https://www.youtube.com/watch?v=nSmMkeNjjPg)
