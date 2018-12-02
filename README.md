@@ -202,7 +202,7 @@ A collection of awesome [JavaScript](https://developer.mozilla.org/en-US/docs/We
   - [Asynchrony: Under the Hood - Shelley Vohr](https://www.youtube.com/watch?v=SrNQS8J67zc)
 
 - JSConf.Asia 2018
-	- [Jake Archibald: In The Loop](https://youtu.be/cCOL7MC4Pl0?list=WL)
+	- [Jake Archibald: In The Loop](https://youtu.be/cCOL7MC4Pl0?list=WL) :new:
 
 ## Others
 
