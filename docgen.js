@@ -5,10 +5,13 @@ const join = path.join;
 const src = __dirname;
 const dist = join(__dirname, 'docs');
 
-if (!shell.which('git')) {
-	shell.echo('Sorry, this script requires git');
-	shell.exit(1);
-}
+
+// If the wish of shell isnt "GIT" retrun a text that says "Sorry this script requires GIT.
+
+	if (!shell.which('git')) {
+		shell.echo('Sorry, this script requires git');
+		shell.exit(1);
+	}
 
 shell.rm('-rf', 'docs');
 shell.mkdir('-p', join(src, 'docs'));
