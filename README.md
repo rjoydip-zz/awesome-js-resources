@@ -154,6 +154,8 @@ A collection of awesome [JavaScript](https://developer.mozilla.org/en-US/docs/We
   - [Load balancing](https://www.keithcirkel.co.uk/load-balancing-node-js)
   - [Strapi CMS](https://github.com/strapi/strapi)
   - [Tricks](/examples/node/tricks.md)
+  - [NodeJS Discord Community](https://discord.gg/Uaq5RHu) - The 🔮 Magic NodeJS Discord Server
+
 - Hack
   - [HackTheBox - Node](https://www.youtube.com/watch?v=sW10TlZF62w)
   - [Hacking Node.JS onto an old-school IBM mainframe (hard hat required!)](https://www.youtube.com/watch?v=5OHeJca_ByA)
