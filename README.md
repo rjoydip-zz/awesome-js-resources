@@ -144,6 +144,12 @@ A collection of awesome [JavaScript](https://developer.mozilla.org/en-US/docs/We
   - [Modern Web APIs with Node.js & TypeScript | Manuel Rauber at iJS 2017](https://www.youtube.com/watch?v=2ToXwB9NqZY)
   - [The Future Is SERVERLESS: What That Means For NODE JS](https://www.youtube.com/watch?v=s8QMUlL3Qf4)
 	- [Intro To Web Scraping With Node.js & Cheerio](https://www.youtube.com/watch?v=LoziivfAAjE)
+  - [Managing Multiple Threads In Node JS 🧵 | OPTIMIZING NODE JS](https://www.youtube.com/watch?v=W0go0ve1XE0)
+  - [The Complete Node js: The Node js Event Loop](https://www.youtube.com/watch?v=6YgsqXlUoTM&t=508s)
+  - [Managing The Event Loop Phases ⭕️ | OPTIMIZING NODE JS](https://www.youtube.com/watch?v=ol56smloW2Q)
+  - [Blocking and Non Blocking Asynchronous Nature of Node js](https://www.youtube.com/watch?v=RWHAFLYQwKk)
+  - [Node, V8, Libuv and C++](https://www.youtube.com/watch?v=Zi9-Kq7uGFU)
+  - [Middleware and the Request Response Cycle in Express](https://www.youtube.com/watch?v=oPN6r71BKXs)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
