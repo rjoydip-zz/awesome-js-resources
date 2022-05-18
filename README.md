@@ -150,6 +150,12 @@ A collection of awesome [JavaScript](https://developer.mozilla.org/en-US/docs/We
   - [Blocking and Non Blocking Asynchronous Nature of Node js](https://www.youtube.com/watch?v=RWHAFLYQwKk)
   - [Node, V8, Libuv and C++](https://www.youtube.com/watch?v=Zi9-Kq7uGFU)
   - [Middleware and the Request Response Cycle in Express](https://www.youtube.com/watch?v=oPN6r71BKXs)
+  - [How To Determine Application Baseline Performance In Node JS 🔬 | OPTIMIZING NODE JS](https://www.youtube.com/watch?v=VlgbcarMoVQ)
+
+- Interview Questions
+    Videos
+  	- [HARDEST JavaScript Interview Question Ever! Part 1](https://www.youtube.com/watch?v=BeHj9UOuUZ0)
+  	- [setTimeout + Closures Interview Question 🔥 | Namaste 🙏 JavaScript Ep. 11](https://www.youtube.com/watch?v=eBTBG4nda2A)
 - Github
   - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
